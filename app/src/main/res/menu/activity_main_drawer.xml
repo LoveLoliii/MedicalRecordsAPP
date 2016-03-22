@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/menu_gh">
+        <menu>
+   <!-- <group android:checkableBehavior="single" >-->
+        <item android:id="@+id/nav_yygh" android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/menu_yygh" />
+        <item android:id="@+id/nav_ghjl" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/menu_ghjl" />
+        <item android:id="@+id/nav_ghsf" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="@string/menu_ghsf" />
+
+   <!-- </group>-->
+        </menu>
+    </item>
+    <item android:title="@string/menu_grxx">
+        <menu>
+            <item android:id="@+id/nav_yydgl" android:icon="@android:drawable/ic_menu_manage"
+                android:title="@string/menu_yydgl" />
+            <item android:id="@+id/nav_jzrgl" android:icon="@android:drawable/ic_menu_slideshow"
+                android:title="@string/menu_jzrgl" />
+
+        </menu>
+    </item>
+    <item android:title="@string/menu_qt">
+        <menu>
+            <item android:id="@+id/nav_ts" android:icon="@android:drawable/ic_menu_slideshow"
+                android:title="@string/menu_ts" />
+            <item android:id="@+id/nav_zx" android:icon="@android:drawable/ic_menu_slideshow"
+                android:title="@string/menu_zx" />
+            <item android:id="@+id/nav_gy" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/menu_gy" />
+        </menu>
+    </item>
+
+</menu>

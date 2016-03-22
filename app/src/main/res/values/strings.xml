@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MedicalRecordsAPP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_yygh">Nav_yyghActivity</string>
+    <string name="menu_gh">挂号</string>
+    <string name="menu_yygh">预约挂号</string>
+    <string name="menu_ghjl">挂号记录</string>
+    <string name="menu_ghsf">挂号收费</string>
+    <string name="menu_grxx">个人信息</string>
+    <string name="menu_yydgl">预约单管理</string>
+    <string name="menu_jzrgl">就诊人管理</string>
+    <string name="menu_qt">其他</string>
+    <string name="menu_ts">投诉</string>
+    <string name="menu_zx">咨询</string>
+    <string name="menu_gy">关于</string>
+</resources>
